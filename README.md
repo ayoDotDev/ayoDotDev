@@ -7,3 +7,16 @@
 </td> -->
 </tr>
 </table>
+
+```bash
++-----------------------------------------------------------------------+
+|  // tech_stack                                                        |
++-----------------------------------------------------------------------+
+|                                                                       |
+|  LANGUAGES :: [ Java, TS, JS ]                                        |  
+|  DATABASE  :: [ Postgres, MySQL, MongoDB, Redis ]                     |
+|  INFRA     :: [ AWS, Docker, Nginx, GitHub Actions ]                  |
+|  TOOLS     :: [ Git, Linux, Prometheus, Grafana ]                     |
+|                                                                       |
++-----------------------------------------------------------------------+
+```
