@@ -13,7 +13,7 @@
 |  // tech_stack                                                        |
 +-----------------------------------------------------------------------+
 |                                                                       |
-|  LANGUAGES :: [ Java, TS, JS ]                                        |  
+|  LANGUAGES :: [ Java, TS ]                                            |  
 |  DATABASE  :: [ Postgres, MySQL, MongoDB, Redis ]                     |
 |  INFRA     :: [ AWS, Docker, Nginx, GitHub Actions ]                  |
 |  TOOLS     :: [ Git, Linux, Prometheus, Grafana ]                     |
